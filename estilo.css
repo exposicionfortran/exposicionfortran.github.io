@@ -97,7 +97,7 @@ header a:hover{
   background-position: center;
   background-size: cover;
   text-align:center;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 #showcase h1{
@@ -114,7 +114,7 @@ header a:hover{
 /* Newsletter */
 #newsletter{
   padding:15px;
-  color:#000000;
+  color:#ffffff;
   background:rgb(71, 40, 109);
 }
 
