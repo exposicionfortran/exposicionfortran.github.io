@@ -173,12 +173,13 @@ article#main-col{
 
 /* Services */
 ul#services li{
-  list-style: none;
+  list-style:none;
   padding:20px;
   border: #cccccc solid 1px;
   margin-bottom:5px;
   background:#e6e6e6;
   text-align: center;
+  display: inline-block;
 }
 
 footer{
