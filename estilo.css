@@ -115,7 +115,7 @@ header a:hover{
 #newsletter{
   padding:15px;
   color:#000000;
-  background:yellow;
+  background:rgb(71, 40, 109);
 }
 
 #newsletter h1{
@@ -181,8 +181,8 @@ ul#services li{
 footer{
   padding:20px;
   margin-top:20px;
-  color:#000000;
-  background-color:yellow;
+  color:#ffffff;
+  background-color:rgb(71, 40, 109);
   text-align: center;
 }
 
