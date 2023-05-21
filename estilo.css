@@ -36,8 +36,8 @@ ul{
 
 /* Header **/
 header{
-  background:yellow;
-  color:#151313;
+  background:rgb(71, 40, 109);
+  color:#ffffff;
   padding-top:30px;
   min-height:70px;
   border-bottom:#000000 3px solid;
@@ -71,7 +71,7 @@ header #branding img{
 }
 header #branding h1{
   margin:0;
-  color: rgb(0, 0, 0);
+  color: rgb(69, 23, 175);
 }
 
 header nav{
@@ -80,12 +80,12 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#000000;
+  color:#ffffff;
   font-weight:bold;
 }
 
 header a:hover{
-  color:rgb(255, 179, 0);
+  color:rgb(174, 0, 255);
   font-weight:bold;
 }
 
